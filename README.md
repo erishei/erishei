@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Skjermbilde 2024-06-10 kl. 19.40.33.png" alt="Erica's banner"  width="600" height="auto"; >
+</p>
+
 # Hi there, I'm Erica! 👋
 
 Welcome to my GitHub profile! I'm a **Front End Developer student** at Noroff VOC in beautiful Oslo, Norway. 
