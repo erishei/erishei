@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Skjermbilde 2024-06-10 kl. 19.40.33.png" alt="Erica's banner"  width="600" height="auto"; >
+  <img src="Skjermbilde 2024-06-10 kl. 19.40.33.png" alt="ai-genereated pink image of a macbook air with fake html code on screen"  width="600" height="auto"; >
 </p>
 
 # Hi there, I'm Erica! 👋
