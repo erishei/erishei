@@ -42,4 +42,4 @@ I’m still growing my project list, but here are a couple of things I've worked
 
 Thanks for stopping by! 😊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erishei&show_icons=true&theme=radical)
